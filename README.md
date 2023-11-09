@@ -26,16 +26,7 @@ The Titanic dataset is used for this analysis, containing information about pass
 
 3. **MLflow Integration:**
    - Install MLflow and required libraries.
-   - Log hyperparameters and evaluation metrics using MLflow.
-   - Track and compare model performance using MLflow UI.
-
-4. **Model Versioning:**
-   - Make changes to the model training (e.g., hyperparameters, train size).
-   - Train an updated model and track parameters for comparison.
-
-
-## Steps
-
+   - Log hyperparameters and evaluation metrics using MLflow.git commit
 ### 1. Install Dependencies
 
 ```bash
@@ -49,5 +40,4 @@ Log hyperparameters, accuracy, precision, recall, and f1 score using MLflow.
 
 ### 4. Model Versioning and Comparison
 Make changes to the model training.
-Train an updated model and track parameters for comparison.S
-
+Train an updated model and track parameters for comparison.
