@@ -1,0 +1,4 @@
+{
+  "XGBClassifier_score-2_unknown_dataset-2": "XGBClassifier.score(X=<DataFrame>, y=<Series>)",
+  "XGBClassifier_score_unknown_dataset": "XGBClassifier.score(X=<DataFrame>, y=<Series>)"
+}

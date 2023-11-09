@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/411393426514831276/02b84804cd2b4fe0934d002bf871483d/artifacts
+end_time: 1699547016235
+entry_point_name: ''
+experiment_id: '411393426514831276'
+lifecycle_stage: active
+run_id: 02b84804cd2b4fe0934d002bf871483d
+run_name: calm-hen-773
+run_uuid: 02b84804cd2b4fe0934d002bf871483d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699547009799
+status: 3
+tags: []
+user_id: Shahana

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/411393426514831276/f91b1c613d9c4aa4ae689b9112631686/artifacts
+end_time: 1699547049958
+entry_point_name: ''
+experiment_id: '411393426514831276'
+lifecycle_stage: active
+run_id: f91b1c613d9c4aa4ae689b9112631686
+run_name: abundant-pug-260
+run_uuid: f91b1c613d9c4aa4ae689b9112631686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699547044121
+status: 3
+tags: []
+user_id: Shahana

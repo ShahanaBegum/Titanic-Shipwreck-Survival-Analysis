@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/411393426514831276/dcde82d5bb7144c4a8f6b5bed36b459b/artifacts
+end_time: 1699547001634
+entry_point_name: ''
+experiment_id: '411393426514831276'
+lifecycle_stage: active
+run_id: dcde82d5bb7144c4a8f6b5bed36b459b
+run_name: delicate-horse-450
+run_uuid: dcde82d5bb7144c4a8f6b5bed36b459b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699546995145
+status: 3
+tags: []
+user_id: Shahana

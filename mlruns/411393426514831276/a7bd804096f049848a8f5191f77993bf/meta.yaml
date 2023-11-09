@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/411393426514831276/a7bd804096f049848a8f5191f77993bf/artifacts
+end_time: 1699547031012
+entry_point_name: ''
+experiment_id: '411393426514831276'
+lifecycle_stage: active
+run_id: a7bd804096f049848a8f5191f77993bf
+run_name: unique-dove-589
+run_uuid: a7bd804096f049848a8f5191f77993bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699547025786
+status: 3
+tags: []
+user_id: Shahana

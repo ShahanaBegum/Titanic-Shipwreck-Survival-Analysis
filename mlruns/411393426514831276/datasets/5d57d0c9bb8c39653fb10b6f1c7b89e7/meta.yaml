@@ -1,0 +1,8 @@
+digest: 6b02b1b7
+name: dataset
+profile: '{"features_shape": [668, 7], "features_size": 4676, "features_nbytes": 18704}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 7]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "Shahana", "mlflow.source.name": "C:\\Anaconda\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

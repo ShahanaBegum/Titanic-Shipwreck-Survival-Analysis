@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/411393426514831276/036f7bee9db24b12a90c4ecbb2be191a/artifacts
+end_time: 1699546994654
+entry_point_name: ''
+experiment_id: '411393426514831276'
+lifecycle_stage: active
+run_id: 036f7bee9db24b12a90c4ecbb2be191a
+run_name: magnificent-wolf-331
+run_uuid: 036f7bee9db24b12a90c4ecbb2be191a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699546988218
+status: 3
+tags: []
+user_id: Shahana

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/411393426514831276/8970601cdb704a94ab8c6eceef68d43a/artifacts
+end_time: 1699547055830
+entry_point_name: ''
+experiment_id: '411393426514831276'
+lifecycle_stage: active
+run_id: 8970601cdb704a94ab8c6eceef68d43a
+run_name: dapper-croc-329
+run_uuid: 8970601cdb704a94ab8c6eceef68d43a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699547050152
+status: 3
+tags: []
+user_id: Shahana

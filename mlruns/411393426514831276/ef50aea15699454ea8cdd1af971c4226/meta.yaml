@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/411393426514831276/ef50aea15699454ea8cdd1af971c4226/artifacts
+end_time: 1699547061777
+entry_point_name: ''
+experiment_id: '411393426514831276'
+lifecycle_stage: active
+run_id: ef50aea15699454ea8cdd1af971c4226
+run_name: welcoming-seal-310
+run_uuid: ef50aea15699454ea8cdd1af971c4226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699547056248
+status: 3
+tags: []
+user_id: Shahana
